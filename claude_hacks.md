@@ -136,3 +136,4 @@ A good general principle — using AI to accelerate work is different from abdic
 
 ### Overall tally
 Roughly: **5 true**, **14 partially true**, **4 false or overstated**, **2 unverifiable** (the specific model-routing claims). The list is strongest on habits (verify output, draft-then-fix, security hygiene, ask clarifying questions) and weakest where it turns a personal workflow preference into an absolute rule (files are bad, turn every setting off, tokens equal words).
+
